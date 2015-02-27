@@ -12,7 +12,6 @@
             "homepage": "http://www.qiniu.com"
         }
     ],
-    "version": "v7.0.0-150227",
     "require": {
         "php": ">=5.3.3"
     },
